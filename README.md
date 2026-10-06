@@ -1,4 +1,4 @@
-# `rarft` is now called `StreamExtract`
+# `rarftp` is now called `StreamExtract`
 
 ![We've renamed to `StreamExtract`](moved.webp)
 
